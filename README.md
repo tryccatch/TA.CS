@@ -20,3 +20,5 @@
 * [ ] [作业](tutorials/GProject/Note/note002.md#作业)
 
 ## 高级语法
+
+### [面向对象 Object Oriented](tutorials/GProject/Note/note100.md#面向对象-object-oriented)
